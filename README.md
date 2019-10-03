@@ -1,4 +1,5 @@
 # E06a-Bullets
+# This assignment is hard for me, I think it's challengeable.
 Playing with bullet sprites:
 
 It's narwhals vs. penguins(?)! These natural enemies are locked in a battle; who will survive?
